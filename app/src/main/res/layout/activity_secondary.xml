@@ -35,7 +35,7 @@
 
     <TextView
         android:id="@+id/tv_quote_out"
-        android:layout_width="wrap_content"
+        android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:layout_alignStart="@+id/textView6"
         android:layout_below="@+id/textView6"
